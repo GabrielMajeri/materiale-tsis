@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "explorer.autoRevealExclude": {
+        "**/.venv": true
+    }
+}
