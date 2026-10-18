@@ -1,0 +1,5 @@
+# Automatically detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Store image files using Git LFS
+*.png filter=lfs diff=lfs merge=lfs -text
