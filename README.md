@@ -7,4 +7,3 @@ Acest repository conține o serie de materiale pe care le-am pregătit pentru cu
 Titulari curs: Liviu Bouruc și Gabriel Majeri \
 Responsabil laborator: Gabriel Majeri \
 Mulțumiri speciale: Alin Ștefănescu, Ciprian Păduraru, Rareș Cristea
-

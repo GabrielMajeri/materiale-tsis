@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which database is supported in production?",
+    "expected_source": "architecture.md",
+    "answerable": true
+  },
+  {
+    "question": "How quickly must an on-call engineer acknowledge a production alert?",
+    "expected_source": "operations.md",
+    "answerable": true
+  },
+  {
+    "question": "How does Atlas authenticate users?",
+    "expected_source": "security.md",
+    "answerable": true
+  },
+  {
+    "question": "Which cloud provider hosts the production cluster?",
+    "expected_source": null,
+    "answerable": false
+  }
+]

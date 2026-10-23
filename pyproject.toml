@@ -3,10 +3,12 @@ name = "materiale-tsis"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "chromadb>=1.4.1",
     "google-genai>=1.0.0",
     "ipykernel>=7.4.0",
     "openai>=3.36.1",
     "pydantic>=2.14.1",
+    "scikit-learn>=1.7.0",
 ]
 
 [project.optional-dependencies]
