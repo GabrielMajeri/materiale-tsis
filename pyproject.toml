@@ -4,8 +4,12 @@ version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
     "chromadb>=1.4.1",
+    "deepagents>=0.7.32",
     "google-genai>=1.0.0",
     "ipykernel>=7.4.0",
+    "langchain>=1.4.8",
+    "langchain-openai>=1.7.3",
+    "langgraph>=1.2.19",
     "openai>=3.36.1",
     "pydantic>=2.14.1",
     "scikit-learn>=1.7.0",
