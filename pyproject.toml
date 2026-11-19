@@ -12,6 +12,7 @@ dependencies = [
     "langgraph>=1.2.19",
     "openai>=3.36.1",
     "pydantic>=2.14.1",
+    "pygraphviz>=2.0.4",
     "scikit-learn>=1.7.0",
 ]
 
