@@ -2,4 +2,5 @@
 .ipynb_checkpoints
 # Ignore virtual environment directories
 .venv
-
+# Ignore Python cache directories
+__pycache__/

@@ -5,7 +5,10 @@ requires-python = ">=3.14"
 dependencies = [
     "chromadb>=1.4.1",
     "deepagents>=0.7.32",
+    "fastapi>=0.136.3",
+    "frozendict>=2.5.1",
     "google-genai>=1.0.0",
+    "httpx>=0.28.1",
     "ipykernel>=7.4.0",
     "langchain>=1.4.8",
     "langchain-openai>=1.7.3",
@@ -13,6 +16,7 @@ dependencies = [
     "openai>=3.36.1",
     "pydantic>=2.14.1",
     "pygraphviz>=2.0.4",
+    "rich>=15.0.0",
     "scikit-learn>=1.7.0",
 ]
 
